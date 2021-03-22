@@ -1,27 +1,58 @@
-# AngularMaterial
+# Angular Form
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+## Table of Contents
 
-## Development server
+* [About the Project](#about-the-project)
+  * [Built With](#computer-built-with)
+* [Getting Started](#getting-started)
+* [Meta](#meta)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#### I developed this project to understand how Angular Material works
 
-## Build
+<img src="./gitImg/form.gif" width="800px">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+---
 
-## Running unit tests
+## :computer: Built With
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Main technologies used in the project
 
-## Running end-to-end tests
+* Typescript  
+* HTML CSS
+* AngularJs    
+* Angular Material
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+---
 
-## Further help
+<!-- GETTING STARTED -->
+# Getting Started
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+# Clone Repository
+$ git clone https://github.com/Lucas-Vinicius-Santos/Angular-Form.git
+
+# Install Dependencies
+$ npm install
+
+# Run Aplication
+$ ng start
+```
+:eyes: Go to http://localhost:4200/ to see the result.
+
+---
+
+## Meta
+
+Lucas Santos – [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucas-santos-4519aa1b0/)](https://www.linkedin.com/in/lucas-santos-4519aa1b0/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-lucasparaipaba113@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasparaipaba113@gmail.com)](mailto:lucasparaipaba113@gmail.com)
+
+This project is under the [MIT license](./LICENSE).
+
+[https://github.com/Lucas-Vinicius-Santos/github-link](https://github.com/Lucas-Vinicius-Santos)
+
