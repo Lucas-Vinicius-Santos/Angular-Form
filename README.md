@@ -1,4 +1,4 @@
-# StuDo
+# Angular Form
 
 ## Table of Contents
 
@@ -14,9 +14,7 @@
 
 #### I developed this project to understand how Angular Material works
 
-<img src="./gitImg/Landing.png" width="800px">
-<img src="./gitImg/listItems.gif" width="800px">
-<img src="./gitImg/NewItem.png" width="800px"> 
+<img src="./gitImg/form.gif" width="800px">
 
 ---
 
